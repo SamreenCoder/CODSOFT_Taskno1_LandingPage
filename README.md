@@ -1,2 +1,2 @@
-# CODSOFT_Taskno1_LandingPage
+# OasisInfobyte_Taskno1_LandingPage
 design a landing page
